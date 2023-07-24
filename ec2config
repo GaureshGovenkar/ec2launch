@@ -9,6 +9,7 @@
                    image: ami-04823729c75214919
                    wait: yes
                    count: 1
+                   assign_public_ip: yes
                    region: us-east-1
                    aws_access_key: AKIAV7UGLDN5EZ7IRNFT
                    aws_secret_key: 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
