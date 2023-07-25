@@ -9,7 +9,7 @@
                    image: ami-04823729c75214919
                    wait: yes
                    count: 1
-                   group: http and ssh
+                   group: ssh-only
                    vpc_subnet_id: subnet-068820f70b4802c47
                    assign_public_ip: yes
                    region: us-east-1
